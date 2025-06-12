@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+psycopg2-binary
+openai>=1.0.0
+numpy
+reportlab
+datetime  
